@@ -167,7 +167,7 @@ project/
 
 ## Authors
 
-Developed as part of the **first partial exam of the Programming course** — Career: Telecommunications and Electronics Engineering.
+Developed as part of the **first partial exam of the Programming subject** — Career: Telecommunications and Electronics Engineering.
 
 1. Israel Córdova
 2. Willian L. Rabeiro
